@@ -17,7 +17,6 @@ Example 2:
 Input: height = [1,1]
 Output: 1
 
-
 Constraints:
 n == height.length
 2 <= n <= 105
