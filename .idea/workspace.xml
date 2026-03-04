@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="48bcf9c0-ee87-422c-9e5d-28fb70af7d01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Yosef_Greenfield_Q0001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code.py" afterDir="false" />
+    <list default="true" id="48bcf9c0-ee87-422c-9e5d-28fb70af7d01" name="Changes" comment="LeetCodeQ0015 Complete">
+      <change afterPath="$PROJECT_DIR$/LeetCode 0011-0020/LeetCodeQ0016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode 0011-0020/LeetCodeQ0017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode 0011-0020/LeetCodeQ0018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode 0011-0020/LeetCodeQ0019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode 0011-0020/LeetCodeQ0020.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +26,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GreatWolf155"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GreatWolf155/Yosef_Greenfield_LeetCode",
+    "accountId": "1783e9ba-609b-4103-ba83-94b6d990c16d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="39ir2e5bW38L08F0gSoQCRy7dvf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,10 +52,130 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.LeetCodeQ0002.executor": "Run",
+    "Python.LeetCodeQ0003.executor": "Run",
+    "Python.LeetCodeQ0004.executor": "Run",
+    "Python.LeetCodeQ0005.executor": "Run",
+    "Python.LeetCodeQ0006.executor": "Run",
+    "Python.LeetCodeQ0007.executor": "Run",
+    "Python.LeetCodeQ0008.executor": "Run",
+    "Python.LeetCodeQ0009.executor": "Run",
+    "Python.LeetCodeQ0010.executor": "Run",
+    "Python.LeetCodeQ0011.executor": "Run",
+    "Python.LeetCodeQ0012.executor": "Run",
+    "Python.LeetCodeQ0013.executor": "Run",
+    "Python.LeetCodeQ0014.executor": "Run",
+    "Python.LeetCodeQ0015.executor": "Run",
+    "Python.LeetCodeQ0016.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_LeetCode\LeetCode 0011-0020" />
+      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_LeetCode\LeetCode 0001-0010" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LeetCodeQ0002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Yosef_Greenfield_Q0001" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_LeetCode\LeetCode 0001-0010\LeetCodeQ0002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LeetCodeQ0003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Yosef_Greenfield_Q0001" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_LeetCode\LeetCode 0001-0010\LeetCodeQ0003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LeetCodeQ0004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Yosef_Greenfield_Q0001" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_LeetCode\LeetCode 0001-0010\LeetCodeQ0004.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LeetCodeQ0005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Yosef_Greenfield_Q0001" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_LeetCode\LeetCode 0001-0010\LeetCodeQ0005.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.LeetCodeQ0005" />
+        <item itemvalue="Python.LeetCodeQ0004" />
+        <item itemvalue="Python.LeetCodeQ0003" />
+        <item itemvalue="Python.LeetCodeQ0002" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,6 +191,187 @@
       <option name="presentableId" value="Default" />
       <updated>1771189526269</updated>
     </task>
+    <task id="LOCAL-00001" summary="renamed q1 from code to LeetCodeQ0001">
+      <option name="closed" value="true" />
+      <created>1771268290285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771268290285</updated>
+    </task>
+    <task id="LOCAL-00002" summary="LeetCodeQ0002 completed">
+      <option name="closed" value="true" />
+      <created>1771270032572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771270032572</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LeetCodeQ0003 completed">
+      <option name="closed" value="true" />
+      <created>1771356074122</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1771356074122</updated>
+    </task>
+    <task id="LOCAL-00004" summary="LeetCodeQ0004 completed">
+      <option name="closed" value="true" />
+      <created>1771446205240</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771446205240</updated>
+    </task>
+    <task id="LOCAL-00005" summary="LeetCodeQ0005 completed">
+      <option name="closed" value="true" />
+      <created>1771532547177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771532547177</updated>
+    </task>
+    <task id="LOCAL-00006" summary="LeetCodeQ0006 completed">
+      <option name="closed" value="true" />
+      <created>1771707690906</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771707690906</updated>
+    </task>
+    <task id="LOCAL-00007" summary="LeetCodeQ0007 completed">
+      <option name="closed" value="true" />
+      <created>1771773985298</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771773985298</updated>
+    </task>
+    <task id="LOCAL-00008" summary="LeetCodeQ0008 completed">
+      <option name="closed" value="true" />
+      <created>1771773995066</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1771773995066</updated>
+    </task>
+    <task id="LOCAL-00009" summary="LeetCodeQ0009 completed">
+      <option name="closed" value="true" />
+      <created>1771774009648</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1771774009648</updated>
+    </task>
+    <task id="LOCAL-00010" summary="LeetCodeQ0010 Partial">
+      <option name="closed" value="true" />
+      <created>1772053679598</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1772053679598</updated>
+    </task>
+    <task id="LOCAL-00011" summary="LeetCodeQ0010 Partial">
+      <option name="closed" value="true" />
+      <created>1772130276052</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1772130276052</updated>
+    </task>
+    <task id="LOCAL-00012" summary="LeetCodeQ0010 Partial&#10;LeetCodeQ0011 Complete">
+      <option name="closed" value="true" />
+      <created>1772130311503</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772130311503</updated>
+    </task>
+    <task id="LOCAL-00013" summary="LeetCodeQ0011 Complete">
+      <option name="closed" value="true" />
+      <created>1772130360392</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1772130360392</updated>
+    </task>
+    <task id="LOCAL-00014" summary="folderized">
+      <option name="closed" value="true" />
+      <created>1772130481208</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1772130481208</updated>
+    </task>
+    <task id="LOCAL-00015" summary="folderized">
+      <option name="closed" value="true" />
+      <created>1772130700397</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1772130700397</updated>
+    </task>
+    <task id="LOCAL-00016" summary="LeetCodeQ0012 Complete">
+      <option name="closed" value="true" />
+      <created>1772132576717</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1772132576717</updated>
+    </task>
+    <task id="LOCAL-00017" summary="LeetCodeQ0013 Complete">
+      <option name="closed" value="true" />
+      <created>1772391687751</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1772391687751</updated>
+    </task>
+    <task id="LOCAL-00018" summary="LeetCodeQ0014 Complete">
+      <option name="closed" value="true" />
+      <created>1772392493171</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1772392493171</updated>
+    </task>
+    <task id="LOCAL-00019" summary="LeetCodeQ0014 Complete">
+      <option name="closed" value="true" />
+      <created>1772392596124</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1772392596124</updated>
+    </task>
+    <task id="LOCAL-00020" summary="LeetCodeQ0015 Complete">
+      <option name="closed" value="true" />
+      <created>1772530913224</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1772530913224</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="renamed q1 from code to LeetCodeQ0001" />
+    <MESSAGE value="LeetCodeQ0002 completed" />
+    <MESSAGE value="LeetCodeQ0003 completed" />
+    <MESSAGE value="LeetCodeQ0004 completed" />
+    <MESSAGE value="LeetCodeQ0005 completed" />
+    <MESSAGE value="LeetCodeQ0006 completed" />
+    <MESSAGE value="LeetCodeQ0007 completed" />
+    <MESSAGE value="LeetCodeQ0008 completed" />
+    <MESSAGE value="LeetCodeQ0009 completed" />
+    <MESSAGE value="LeetCodeQ0010 Partial" />
+    <MESSAGE value="LeetCodeQ0010 Partial&#10;LeetCodeQ0011 Complete" />
+    <MESSAGE value="LeetCodeQ0011 Complete" />
+    <MESSAGE value="folderized" />
+    <MESSAGE value="LeetCodeQ0012 Complete" />
+    <MESSAGE value="LeetCodeQ0013 Complete" />
+    <MESSAGE value="LeetCodeQ0014 Complete" />
+    <MESSAGE value="LeetCodeQ0015 Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCodeQ0015 Complete" />
   </component>
 </project>
