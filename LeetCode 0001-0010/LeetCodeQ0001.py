@@ -27,6 +27,7 @@ Constraints:
 Only one valid answer exists.
 """
 
+"""
 nums = [1, 7, 11, 15, 6, 3]
 target = 18
 answer_key = []
@@ -34,9 +35,29 @@ for num1 in nums:
     for num2 in nums:
         if num1 + num2 == target and nums.index(num1) != nums.index(num2):
             answer_key = [nums.index(num1), nums.index(num2)]
-            print(answer_key)
+            # print(answer_key)
             break
     if len(answer_key) == 2:
         break
 else:
     print("No proper sum found")
+"""
+
+class Solution:
+    def twoSum(self, nums: list[int], target: int) -> list[int] | None:
+        answer_key = []
+        for num1 in nums:
+            for num2 in nums:
+                if num1 + num2 == target and nums.index(num1) != nums.index(num2):
+                    answer_key = [nums.index(num1), nums.index(num2)]
+                    # print(answer_key)
+                    break
+            if len(answer_key) == 2:
+                return answer_key
+        else:
+            return None # No proper sum found
+
+nums = [2,7,11,15]
+target = 9
+
+print(Solution().twoSum(nums, target))
